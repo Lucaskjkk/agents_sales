@@ -29,4 +29,9 @@ COMPANY_PRODUCTS = [
         "price": "10% de desconto para pagamento anual",
         "description": "Pague 12 meses adiantado e economize 10% no valor total do plano escolhido.",
     },
+    {
+        "name": "Plano Mensal",
+        "price": "Sem desconto para pagamento mensal",
+        "description": "Pague mês a mês sem compromisso, ideal para quem quer testar antes de se comprometer.",
+    }
 ]
