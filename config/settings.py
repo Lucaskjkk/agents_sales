@@ -24,4 +24,9 @@ COMPANY_PRODUCTS = [
         "price": "Sob consulta",
         "description": "Solução completa e personalizada para grandes empresas. Usuários ilimitados e suporte dedicado.",
     },
+    {
+        "name": "Plano Anual",
+        "price": "10% de desconto para pagamento anual",
+        "description": "Pague 12 meses adiantado e economize 10% no valor total do plano escolhido.",
+    },
 ]
