@@ -34,4 +34,9 @@ COMPANY_PRODUCTS = [
         "price": "Sem desconto para pagamento mensal",
         "description": "Pague mês a mês sem compromisso, ideal para quem quer testar antes de se comprometer.",
     }
+    {
+        "name": "Plano Trimestral",
+        "price": "5% de desconto para pagamento trimestral",
+        "description": "Pague 3 meses adiantado e economize 5% no valor total do plano escolhido.",
+    }
 ]
